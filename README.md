@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepika</h1>
-<h3 align="center">A cloud DevOps engineer with over seven years of experience, proficient in the design, implementation, and maintenance of cloud-based infrastructure and applications. Hands-on experience with cloud platforms such as Amazon Web Services (AWS) and Microsoft Azure, as well as deploying and maintaining application software using scripting and automation tools such as Terraform, Ansible, and Jenkins.</h3>
+<h3 align="center">A Cloud DevOps engineer with over seven years of experience, proficient in the design, implementation, and maintenance of cloud-based infrastructure and applications. Hands-on experience with cloud platforms such as Amazon Web Services (AWS) and Microsoft Azure, as well as deploying and maintaining application software using scripting and automation tools such as Terraform, Ansible, and Jenkins.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejain4&label=Profile%20views&color=0e75b6&style=flat" alt="dejain4" /> </p>
 
